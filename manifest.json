@@ -4,9 +4,6 @@
       "strict_min_version": "58.0a1"
     }
   },
-  "background": {
-      "scripts": ["background.js"]
-  },
   "browser_action": {
     "browser_style": true,
     "default_title": "Reader Mode",
@@ -16,7 +13,7 @@
     "default_popup": "tabs.html"
   },
   "description": "Change the currently opened tab to reader mode if available.",
-  "homepage_url": "https://github.com/nabendu82/Tabs-Operations",
+  "homepage_url": "https://github.com/nabendu82/Reader-Mode",
   "manifest_version": 2,
   "name": "Reader Mode",
   "permissions": [

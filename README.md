@@ -1,9 +1,9 @@
-# Tabs Operations
+# Reader Mode
 
 ## What it does
 
-This extension includes a browser action with a popup specified as "tabs.html".
+Change the currently opened tab to reader mode if available. And also some other zoom operations.
 
-The popup lets the user perform various simple operations using the tabs API.
+The popup lets the user perform various operations using the tabs API.
 
 
